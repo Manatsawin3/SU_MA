@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dart-code.dart-code",
+    "dart-code.flutter",
+    "esbenp.prettier-vscode",
+    "akamud.vscode-theme-onedark",
+    "pkief.material-icon-theme"
+  ]
+}

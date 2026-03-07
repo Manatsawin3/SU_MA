@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/week6_igui.iml" filepath="$PROJECT_DIR$/week6_igui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/week6_igui_android.iml" filepath="$PROJECT_DIR$/android/week6_igui_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week6_lightanimation.iml" filepath="$PROJECT_DIR$/week6_lightanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/week6_lightanimation_android.iml" filepath="$PROJECT_DIR$/android/week6_lightanimation_android.iml" />
     </modules>
   </component>
 </project>
