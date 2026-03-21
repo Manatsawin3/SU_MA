@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:final_app/screen/choicesreen.dart';
+import 'package:final_app/screen/optionscreen.dart';
 
 void main() {
   runApp(const MainApp());
@@ -27,7 +27,7 @@ class MainApp extends StatelessWidget {
           ),
         ),
       ),
-      home: choicesreen(),
+      home: OptionScreen(),
     );
   }
 }
